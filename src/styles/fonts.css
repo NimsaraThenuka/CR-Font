@@ -1,0 +1,11 @@
+/* Professional Luxury Fonts */
+/* These are the default fonts, but the font selector will dynamically load selected fonts */
+
+/* Playfair Display for elegant headings and serif text */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap');
+
+/* Inter for clean, professional body text */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Cormorant Garamond as alternative luxury serif */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap');

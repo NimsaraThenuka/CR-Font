@@ -1,0 +1,16 @@
+@import 'tailwindcss' source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@import 'tw-animate-css';
+
+@utility font-sans {
+  font-family: var(--font-sans);
+}
+
+@utility font-serif {
+  font-family: var(--font-serif);
+}
+
+@utility font-display {
+  font-family: var(--font-display);
+}

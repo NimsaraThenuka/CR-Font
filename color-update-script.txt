@@ -1,0 +1,25 @@
+Color Replacement Guide:
+========================
+
+OLD COLORS → NEW COLORS:
+
+1. Backgrounds:
+   - from-[#0a4f4d] to-[#083a38] → from-gray-900 to-black
+   - from-[#052f2e] → from-gray-900
+   - bg-[#0a4f4d] → bg-black
+   - bg-[#052f2e] → bg-gray-900
+
+2. Text Colors:
+   - text-teal-100 → text-white
+   - text-teal-200 → text-gray-300
+   - text-teal-300 → text-teal-400
+   
+3. Keep as is (teal accents):
+   - text-teal-400
+   - bg-teal-500
+   - bg-teal-400
+   - border-teal-500
+   - border-teal-400
+
+4. Gradients to-transparent:
+   - bg-gradient-to-t from-[#0a4f4d] → bg-gradient-to-t from-black
