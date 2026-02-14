@@ -48,7 +48,7 @@ export function HomePage() {
             transition={{ duration: 0.6 }}
             className="text-center mb-16"
           >
-            <h2 className="text-4xl md:text-5xl font-serif text-teal-100 mb-4">
+            <h2 className="text-4xl md:text-5xl font-serif text-white mb-4">
               Why Choose Chrish Royal
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-transparent via-teal-400 to-transparent mx-auto" />
@@ -110,7 +110,7 @@ export function HomePage() {
             >
               <Gem className="w-12 h-12 text-teal-400 mx-auto" />
             </motion.div>
-            <h2 className="text-4xl md:text-5xl font-serif text-teal-100 mb-4">
+            <h2 className="text-4xl md:text-5xl font-serif text-white mb-4">
               Premium Gemstone Collection
             </h2>
             <p className="text-teal-200 text-lg max-w-2xl mx-auto">
@@ -167,7 +167,7 @@ export function HomePage() {
             >
               <Sparkles className="w-12 h-12 text-teal-400 mx-auto" />
             </motion.div>
-            <h2 className="text-4xl md:text-5xl font-serif text-teal-100 mb-4">
+            <h2 className="text-4xl md:text-5xl font-serif text-white mb-4">
               Luxury Jewelry Collection
             </h2>
             <p className="text-teal-200 text-lg max-w-2xl mx-auto">

@@ -28,7 +28,7 @@ export function BrandStoryPage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.3 }}
-              className="text-5xl md:text-7xl font-serif text-teal-100 mb-6"
+              className="text-5xl md:text-7xl font-serif text-white mb-6"
             >
               Chrish Royal
             </motion.h1>
@@ -108,7 +108,7 @@ export function BrandStoryPage() {
             transition={{ duration: 0.6 }}
             className="text-center mb-16"
           >
-            <h2 className="text-4xl md:text-5xl font-serif text-teal-100 mb-4">
+            <h2 className="text-4xl md:text-5xl font-serif text-white mb-4">
               Our Foundation
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-transparent via-teal-400 to-transparent mx-auto" />

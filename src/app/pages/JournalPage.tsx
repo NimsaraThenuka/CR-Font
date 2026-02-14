@@ -69,7 +69,7 @@ export function JournalPage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.3 }}
-              className="text-5xl md:text-7xl font-serif text-teal-100 mb-6"
+              className="text-5xl md:text-7xl font-serif text-white mb-6"
             >
               Our Journal
             </motion.h1>
